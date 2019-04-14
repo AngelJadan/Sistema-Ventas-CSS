@@ -1,6 +1,7 @@
 #menu{
-    border: black 1px solid;
-    color: blue;
+    width: 43%;
+    font:oblique bold 100% cursive;
+    background-color: yellowgreen;
 }
 #car{
     margin: 10px;
