@@ -1,20 +1,22 @@
-/* * {
+* {
    
    border: 1px solid black;
    border-width: thick solid black ;
    background-color: aquamarine;
-}*/
+}
 
 #menu{
    border-top-style: solid;
    width: 20%; 
-   margin: 10px;
+   margin:5px;
    border-width: thick ;
    border-top-color: black solid;
-   border-right: blue solid;
+   border-right: black solid;
    border-left: black solid;
-   padding: 20px;
-   float: right;
+   padding: 5px;
+   float: unset;
+   height: auto;
+   min-height: initial;    
 }
 #boton1{
    width: 10%;
@@ -29,4 +31,7 @@ body{
    background-image: url("../images/fondo.jpg");
    background-repeat: no-repeat;
    background-position: 50% 50%;
+}
+.tiendas{
+   width: 20%;
 }
