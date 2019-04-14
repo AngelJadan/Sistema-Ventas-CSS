@@ -1,0 +1,32 @@
+/* * {
+   
+   border: 1px solid black;
+   border-width: thick solid black ;
+   background-color: aquamarine;
+}*/
+
+#menu{
+   border-top-style: solid;
+   width: 20%; 
+   margin: 10px;
+   border-width: thick ;
+   border-top-color: black solid;
+   border-right: blue solid;
+   border-left: black solid;
+   padding: 20px;
+   float: right;
+}
+#boton1{
+   width: 10%;
+   height: 5%;
+}
+.Tienda{
+   width: 200px;
+   height: 150px;
+   padding: 20px;
+}
+body{
+   background-image: url("../images/fondo.jpg");
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+}
