@@ -1,0 +1,31 @@
+#menu{
+    /*border-top-style: solid;*/
+    width: 20%; 
+    margin:5px;
+    /*border-width: thick ;
+    border-top-color: black solid;
+    border-right: black solid;
+    border-left: black solid;
+    padding: 5px;
+    float: unset;
+    height: auto;
+    min-height: initial;*/
+ }
+ #boton1{
+    width: 10%;
+    height: 5%;
+ }
+ 
+#catalogo{
+    width: 100%;
+ }
+ #descripcion{
+    width: 50%;
+ }
+ #parrafo1{
+    width: 50%;
+ }
+
+ #refs{
+     float:right;
+ }
