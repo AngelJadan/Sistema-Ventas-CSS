@@ -1,15 +1,16 @@
+*{
+    background-color:#E2F3C2;
+}
+#refs{
+    font:oblique bold 150% cursive;
+}
+#inicio{
+    background-color: #EEC513;
+    border:#695705 5px solid;
+}
 #menu{
-    /*border-top-style: solid;*/
     width: 50%; 
     margin:5px;
-    /*border-width: thick ;
-    border-top-color: black solid;
-    border-right: black solid;
-    border-left: black solid;
-    padding: 5px;
-    float: unset;
-    height: auto;
-    min-height: initial;*/
  }
  #boton1{
     width: 10%;
@@ -19,9 +20,16 @@
 #catalogo{
     width: 100%;
  }
- #refs{
-     float:unset;
- }
- #a1{
-     
- }
+#catalogo{
+    width: 60%;
+    border-top: black solid;
+    text-align: justify;
+    color:#382E04;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#oli{
+    border-top: black solid;
+    text-align: justify;
+    color:#382E04;
+    width: 40%;
+}

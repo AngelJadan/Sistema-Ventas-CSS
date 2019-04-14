@@ -4,14 +4,7 @@
    height: 150px;
    padding: 20px;
 }
-body{
-   /*background-image: url("../images/fondo.jpg");
-   background-repeat: no-repeat;
-   background-position: 50% 50%;
-   background-attachment:fixed;
-   background-position: center center;
-   background-size: cover;*/
-}
+
 .tiendas{
    float: left;
    width: 100%;
@@ -19,4 +12,14 @@ body{
 }
 .autor{
    float:none;
+}
+.desct{
+   -webkit-text-stroke: 1px #533201;
+   color: #E48F0D;
+   text-align: center;
+}
+.descripcion{
+   font-family:'Times New Roman', Times, serif;
+   text-align: justify;
+   border: #C3C312 1px solid;
 }
