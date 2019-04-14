@@ -1,22 +1,62 @@
-
+*{
+    background-color: antiquewhite;
+}
 #cfact{
     width: 100%;
     text-align: center;
     border: red 1px solid;
+    color: lawngreen;
+    font: 250% sans-serif;
 }
 #nitem{
-    width: 10%;
     border: red 1px solid;
 }
 #detalles{
-    width: 20%
+    width: 30%;
+    border: red 1px solid;
 }
 #cant{
     width: 20%;
+    border: red 1px solid;
 }
 #cunit{
     width: 20%;
+    border: red 1px solid;
 }
 #ctot{
     width: 20%;
+    border: red 1px solid;
+}
+
+#nitem1{
+    border: red 1px solid;
+    color:dimgray;
+    font: oblique 80% cursive;
+}
+#detalles1{
+    width: 30%;
+    border: red 1px solid;
+    color:dimgray;
+    font: oblique 80% cursive;
+}
+#cant1{
+    width: 20%;
+    border: red 1px solid;
+    color:dimgray;
+    font: oblique 80% cursive;
+}
+#cunit1{
+    width: 20%;
+    border: red 1px solid;
+    color:dimgray;
+    font: oblique 80% cursive;
+}
+#ctot1{
+    width: 20%;
+    border: red 1px solid;
+    color:dimgray;
+    font: oblique 80% cursive;
+}
+nitemf{
+    border: none 1px solid;
 }
