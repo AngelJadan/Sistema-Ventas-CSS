@@ -1,37 +1,22 @@
+
 #cfact{
+    width: 100%;
     text-align: center;
-    border: red 2px solid;
-    margin: 10px,
+    border: red 1px solid;
 }
-#cuerpo
-        {
-        margin: 10px;
-        border: red 2px solid;
-        width: 20%;
-    }
-#izquierda
-        {
-        padding: 0px;
-        margin: 0px;
-        width: 291px;
-        height: 100%;
-        background-color: #d0cece;
-        float: left;
-    }
-#centro
-        {
-        padding: 0px;
-        margin: 0px;
-        width: 100%;
-        height: 100%;
-        background-color: #ffffff;             
-    }
-#derecha
-        {
-        padding: 0px;
-        margin: 0px;
-        width: 100%;
-        height: 100%;
-        background-color: #d0cece;             
-        float: right;
+#nitem{
+    width: 10%;
+    border: red 1px solid;
+}
+#detalles{
+    width: 20%
+}
+#cant{
+    width: 20%;
+}
+#cunit{
+    width: 20%;
+}
+#ctot{
+    width: 20%;
 }
