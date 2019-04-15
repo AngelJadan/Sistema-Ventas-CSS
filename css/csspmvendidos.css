@@ -1,9 +1,37 @@
 #menu{
-    width: 43%;
-    font:oblique bold 100% cursive;
-    background-color: yellowgreen;
+    width: 50%;
+    font:oblique bold 90% cursive;
+    border: #3C7913 3px solid;
+    background: #7BC318;
 }
-#car{
+.items{
+    text-align: center;
+    background-color: #3C7913;
+    width: 24%;
     margin: 10px;
     border:red 1px solid;
+}
+#cas{
+    text-align: center;
+    width: 20%;
+    margin: 10px;
+    border: #3C7913 3px solid;
+}
+#mot{
+    text-align: center;
+    width: 20%;
+    margin: 10px;
+    border: #3C7913 3px solid;
+}
+#cel{
+    text-align: center;
+    width: 20%;
+    margin: 10px;
+    border: #3C7913 3px solid;
+}
+#tel{
+    text-align: center;
+    width: 20%;
+    margin: 10px;
+    border: #3C7913 3px solid;
 }

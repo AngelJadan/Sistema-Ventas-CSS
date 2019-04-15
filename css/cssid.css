@@ -3,33 +3,46 @@ body {
 }
 #refs{
     font:oblique bold 150% cursive;
+    background: #85C318;
+    border: #85C318 5px solid;
 }
 #inicio{
     background-color: #EEC513;
     border:#695705 5px solid;
 }
 #menu{
-    width: 50%; 
+    float: left;
+    width: 35%;
     margin:5px;
  }
  #boton1{
     width: 10%;
     height: 5%;
  }
- 
 #catalogo{
-    width: 100%;
- }
-#catalogo{
-    width: 60%;
+    width: 150%;
     border-top: black solid;
     text-align: justify;
     color:#382E04;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #oli{
-    border-top: black solid;
+    width: 100%;
+    border: black solid;
     text-align: justify;
     color:#382E04;
+    background:#85C318;
+}
+#mdesc{
+    width: 20%;
+    float: left;
+    background: #85C318;
+}
+.tiendas{
     width: 40%;
+    float: left;
+}
+#v1{
+    width: 30%;
+    float: left;
 }

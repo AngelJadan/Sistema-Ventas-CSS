@@ -1,7 +1,9 @@
-
+.cabecera{
+   text-align: center;
+}
 .Tienda{
-   width: 200px;
-   height: 150px;
+   width: 300px;
+   height: 250px;
    padding: 20px;
 }
 
@@ -22,4 +24,8 @@
    font-family:'Times New Roman', Times, serif;
    text-align: justify;
    border: #C3C312 1px solid;
+}
+.enblanco{
+   width: 50%;
+   height: 50%;
 }

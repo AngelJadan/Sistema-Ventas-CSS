@@ -1,11 +1,10 @@
-*{
-    background-color: antiquewhite;
+body{
+    background-color:#E2F3C2;
 }
 #cfact{
     width: 100%;
     text-align: center;
     border: red 1px solid;
-    color: lawngreen;
     font: 250% sans-serif;
 }
 #nitem{
@@ -30,33 +29,28 @@
 
 #nitem1{
     border: red 1px solid;
-    color:dimgray;
-    font: oblique 80% cursive;
+    font:  oblique 80% cursive;
 }
 #detalles1{
     width: 30%;
     border: red 1px solid;
-    color:dimgray;
     font: oblique 80% cursive;
 }
 #cant1{
     width: 20%;
     border: red 1px solid;
-    color:dimgray;
     font: oblique 80% cursive;
 }
 #cunit1{
     width: 20%;
     border: red 1px solid;
-    color:dimgray;
     font: oblique 80% cursive;
 }
 #ctot1{
     width: 20%;
     border: red 1px solid;
-    color:dimgray;
     font: oblique 80% cursive;
 }
-nitemf{
+.nitemf{
     border: none 1px solid;
 }
