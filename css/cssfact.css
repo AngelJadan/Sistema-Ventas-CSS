@@ -27,26 +27,26 @@ body{
     border: red 1px solid;
 }
 
-#nitem1{
+.nitem1{
     border: red 1px solid;
     font:  oblique 80% cursive;
 }
-#detalles1{
+.detalles1{
     width: 30%;
     border: red 1px solid;
     font: oblique 80% cursive;
 }
-#cant1{
+.cant1{
     width: 20%;
     border: red 1px solid;
     font: oblique 80% cursive;
 }
-#cunit1{
+.cunit1{
     width: 20%;
     border: red 1px solid;
     font: oblique 80% cursive;
 }
-#ctot1{
+.ctot1{
     width: 20%;
     border: red 1px solid;
     font: oblique 80% cursive;
